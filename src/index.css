@@ -18,7 +18,7 @@ body {
   }
   
   .square {
-    background: #fff;
+    background: white;
     border: 1px solid #999;
     float: left;
     font-size: 24px;
@@ -32,6 +32,10 @@ body {
     width: 34px;
   }
   
+  .square:hover {
+    background: pink;
+  }
+
   .square:focus {
     outline: none;
   }
