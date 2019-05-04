@@ -21,19 +21,19 @@ body {
     background: white;
     border: 1px solid #999;
     float: left;
-    font-size: 24px;
+    font-size: 30px;
     font-weight: bold;
     line-height: 34px;
-    height: 34px;
+    height: 55px;
     margin-right: -1px;
     margin-top: -1px;
     padding: 0;
     text-align: center;
-    width: 34px;
+    width: 55px;
   }
   
   .square:hover {
-    background: pink;
+    background: rgb(195, 243, 207);
   }
 
   .square:focus {
